@@ -1,0 +1,100 @@
+[
+    {
+        "model": "recipes.Product",
+        "pk": 1,
+        "fields": {
+            "name": "Свинина"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 2,
+        "fields": {
+            "name": "Камчатский краб"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 3,
+        "fields": {
+            "name": "Салат Айсберг"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 4,
+        "fields": {
+            "name": "Картофель"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 5,
+        "fields": {
+            "name": "Рис"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 6,
+        "fields": {
+            "name": "Куриная грудка"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 7,
+        "fields": {
+            "name": "Кипящая вода"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 8,
+        "fields": {
+            "name": "Греча"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 9,
+        "fields": {
+            "name": "Жареные гвозди"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 10,
+        "fields": {
+            "name": "Морковь"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 11,
+        "fields": {
+            "name": "Огурец"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 12,
+        "fields": {
+            "name": "Майонез"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 13,
+        "fields": {
+            "name": "Лук"
+        }
+    },
+    {
+        "model": "recipes.Product",
+        "pk": 14,
+        "fields": {
+            "name": "Перец"
+        }
+    }
+]

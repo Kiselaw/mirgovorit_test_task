@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Добавление продукта</title>
+    <style>
+        .center {
+            text-align: center;
+        }
+        .big-font {
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        {% if created %}
+            <p class="big-font">Продукт добавлен!</p>
+        {% else %}
+            <p class="big-font">Продукт обновлен!</p>
+        {% endif %}
+        <p class="big-font">Наименование рецепта: {{ recipe_name }}</p>
+        <p class="big-font">Наименование продукта: {{ product_name }}</p>
+        <p class="big-font">Масса: {{ weight }} г</p>
+    </div>
+</body>
+</html>
