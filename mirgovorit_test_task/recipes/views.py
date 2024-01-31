@@ -69,7 +69,6 @@ def show_recipes_without_product(request):
         return HttpResponseBadRequest(error_message)
 
     product_name = Product.objects.get(id=product_id).name
-    print(product_name)
 
     recipes = Recipe.objects.filter(
         ~Q(products__id=product_id) |
