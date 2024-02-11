@@ -1,5 +1,7 @@
 # mirgovorit_test_task
 
+Cсылка на задание - https://drive.google.com/file/d/1-grxFjcca7LZS2LlXJUZ_SaTOUMZucgn/view?usp=drive_link
+
 # Стек
 
 - Python 3.11.1
